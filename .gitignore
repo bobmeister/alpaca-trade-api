@@ -11,3 +11,6 @@
 .rspec_status
 .byebug_history
 *.gem
+
+.idea/
+.ruby-version
